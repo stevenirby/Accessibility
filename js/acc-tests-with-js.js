@@ -227,7 +227,7 @@ var ACCTESTS = {};
         myCss.rel = "stylesheet";
         myCss.type = 'text/css';
         myCss.id = "accTesterCss";
-        myCss.href = 'http://haltersweb.github.io/Accessibility/css/acc-tests-with-js.css';
+        myCss.href = '//haltersweb.github.io/Accessibility/css/acc-tests-with-js.css';
         document.getElementsByTagName('head')[0].appendChild(myCss);
     }
     function injectHtmlInterface() {

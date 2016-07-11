@@ -10,6 +10,6 @@
     'use strict';
     var myScript = document.createElement('script');
     myScript.type = 'text/javascript';
-    myScript.src = 'http://haltersweb.github.io/Accessibility/js/acc-tests-with-js.js';
+    myScript.src = '//haltersweb.github.io/Accessibility/js/acc-tests-with-js.js';
     document.getElementsByTagName('body')[0].appendChild(myScript);
 }());
